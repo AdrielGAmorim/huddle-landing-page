@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/website-projects/pages/huddle-landing-page/static/js/main.dd126e7f.js",
-    "index.html": "/website-projects/pages/huddle-landing-page/index.html",
-    "main.dd126e7f.js.map": "/website-projects/pages/huddle-landing-page/static/js/main.dd126e7f.js.map"
+    "main.js": "/huddle-landing-page/static/js/main.c7281c2c.js",
+    "index.html": "/huddle-landing-page/index.html",
+    "main.c7281c2c.js.map": "/huddle-landing-page/static/js/main.c7281c2c.js.map"
   },
   "entrypoints": [
-    "static/js/main.dd126e7f.js"
+    "static/js/main.c7281c2c.js"
   ]
 }
