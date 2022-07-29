@@ -19,5 +19,11 @@ export const StyledSocialIcons = styled.div`
         margin-right: 10px;
         width: 40px;
         height: 40px;
+        transition: all .5s ease-in-out;
+    }
+
+    a:hover {
+        color: ${({ theme }) => theme.colors.footer};
+        background-color: #fff;
     }
 `

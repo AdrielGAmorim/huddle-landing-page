@@ -18,6 +18,10 @@ export const StyledFooter = styled.footer`
         color: #fff;
     }
 
+    li a:hover {
+        text-decoration: underline;
+    }
+
     p {
         text-align: right;
     }
