@@ -7,7 +7,7 @@ export function Footer() {
   return (
     <StyledFooter>
         <Container>
-            <img src='./images/logo_white.svg' alt='' />
+            <img src='./images/logo-white.svg' alt='' />
 
             <Flex>
                 <ul>
