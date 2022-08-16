@@ -1,6 +1,10 @@
 # Frontend Mentor - Huddle landing page with alternating feature blocks solution
 
+<br />
+
 This is a solution to the [Huddle landing page with alternating feature blocks challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-alternating-feature-blocks-5ca5f5981e82137ec91a5100). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+<br />
 
 ## Table of contents
 
@@ -12,6 +16,7 @@ This is a solution to the [Huddle landing page with alternating feature blocks c
   - [Built with](#built-with)
 - [Author](#author)
 
+<br />
 
 ## Overview
 
@@ -22,6 +27,7 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 
+<br />
 
 ### Screenshot
 
@@ -29,11 +35,13 @@ Users should be able to:
 
 ![](./public/images/screenshots/screenshot-2.png)
 
+<br />
 
 ### Links
 
 - Live Site URL: [https://adrielgamorim.github.io/huddle-landing-page/](https://adrielgamorim.github.io/huddle-landing-page/)
 
+<br />
 
 ## My process
 
@@ -44,8 +52,8 @@ Users should be able to:
 - [Styled Components](https://styled-components.com/) - For styles
 - [React Icons](https://react-icons.github.io/react-icons/) - For social icons
 
+<br />
 
 ## Author
 
-- Website - [Adriel Amorim](https://adrielgamorim.github.io/Portfolio/)
 - Frontend Mentor - [@AdrielGAmorim](https://www.frontendmentor.io/profile/AdrielGAmorim)
